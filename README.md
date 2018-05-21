@@ -1,28 +1,24 @@
 Copyright (C) 2017 - The LineageOS Project
 
-Device configuration for Xiaomi Mi Note 3
+Device configuration for QK1713-A01/A02(WT89713)
 ==============
 
-The Xiaomi Mi Note 3 (codenamed _"jason"_) are high-end smartphones from Xiaomi.
+The QK1713 (ODM internal codenamed _"T89713AA1"_) are ODM smartphones from Wingtech.
 
-It was announced in September 2017. Release date was September 2017.
+Developing initiated at early of 2017. Release date was later at the end of 2017.
 
 ## Device specifications
 
-|                  Device | Xiaomi Mi Note 3                                                         |
+|                  Device | QIKU 1713-A01,1713-A02                                                   |
 |------------------------:|--------------------------------------------------------------------------|
-|                     SoC | Qualcomm SDM660 Snapdragon 660                                           |
+|                     SoC | Qualcomm Snapdragon QRD630                                               |
 |                     CPU | Quad-core 2.2GHz Kryo 260 & quad-core 1.8GHz Kryo 260                    |
-|                     GPU | 850MHz Adreno 512                                                        |
-|                  Memory | 6 GB RAM (LPDDR4 1866MHz dual-channel)                                   |
-| Shipped Android version | 7.1                                                                      |
-|                 Storage | 64 GB (eMMC 5.1 Flash)                                                   |
-|                 Battery | Non-removable Li-Po 3500 mAh                                             |
-|              Dimensions | 152.6 x 73.95 x 7.6 mm                                                   |
+|                  Memory | 4 GB RAM (LPDDR4 1600MHz dual-channel)                                   |
+| Shipped Android version | 7.1.1(SW_T89713AA1_V0xx_M10_QIKU_USR_201708230905)                       |
+|                 Storage | 32 GB (eMMC 5.1 Flash)                                                   |
+|                 Battery | Non-removable Li-Po 4000 mAh                                             |
 |                 Display | 1920 x 1080 px, 5.5 inches (403 PPI)                                     |
-|             Rear camera | Dual 12 MP, f/2.0, phase detection autofocus, dual-LED (dual tone) flash |
-|            Front camera | 16 MP, 2.0 µm pixel size                                                 |
-
 ## Device picture
 
-![Xiaomi Mi Note 3](https://i1.mifile.cn/f/i/17/minote3/specs_black.jpg "Xiaomi Mi Note 3 in black")
+![QK1713-A01](http://shouji.tenaa.com.cn/TransFile/WebPic/17024766/17024766-z.jpg "QK1713-A01")
+![QK1713-A01](http://shouji.tenaa.com.cn/TransFile/WebPic/17024766/17024766-b.jpg "QK1713-A01")
